@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @desiblues
 - 👀 I’m interested in AI for music, particularly Hindustani
 - 🌱 I’m currently learning just about all of that - Hindustani, musicology, and AI in this space
-- 💞️ I’m looking to collaborate on AI for Hindustani music: raaga identification, genre identification, channel separation, real time swaralipi, ...
+- 💞️ I’m looking to collaborate on AI for Hindustani music: raaga identification, gharaana identification, channel separation, real time swaralipi, generative sangeet, ...
 - 📫 How to reach me: hmm.
 
 <!---
